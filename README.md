@@ -42,6 +42,8 @@ Run
   python text_to_speech_app.py
 
 Output
+<img width="828" height="658" alt="image" src="https://github.com/user-attachments/assets/a68e31cc-0abb-441b-934e-0a6db7d37c02" />
+
 
 Files of interest
 - text_to_speech_app.py — main application GUI and logic
@@ -94,3 +96,4 @@ Acknowledgements
 Contact
 - For improvements, open an issue in the repository.
 #
+
