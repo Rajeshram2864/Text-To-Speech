@@ -1,2 +1,5 @@
 pyttsx3>=2.90
-gTTS>
+gTTS>=2.3.1
+tkinter
+subprocess
+os
